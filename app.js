@@ -1,1 +1,3 @@
-//Data types
+//Data Types
+
+//Arithmetic and Logical operators
